@@ -13,7 +13,6 @@
 }
 
 .displayTest {
-	display:inline-block;
   background-color:#3e204c;
   width: 20%;
   margin: .1em;
@@ -21,8 +20,6 @@
 }
 
 #exercise2 a:hover {
-	background-color:#7FFF00;
-	color:#FA1B74;
 
 }
 </style>
